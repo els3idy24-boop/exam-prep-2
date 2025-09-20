@@ -1,0 +1,5 @@
+{
+  "name": "Arabic Geography Quiz",
+  "description": "An interactive quiz application in Arabic about the natural features of Asia and Europe, based on provided educational material. It includes map-based, multiple-choice, and essay questions with instant feedback.",
+  "requestFramePermissions": []
+}
